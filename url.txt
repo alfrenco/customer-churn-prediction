@@ -1,0 +1,2 @@
+URL HEROKU : https://churn-prediction-yosi.herokuapp.com/
+URL DATASET : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
